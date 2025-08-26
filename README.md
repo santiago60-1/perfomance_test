@@ -58,14 +58,9 @@ npm install
 ```bash
 mysql -u root -p < sql/database.sql
 ```
-4. Load CSV data into the database.
-5. Start the server:
+4. Start the server:
 ```bash
-npm start
-```
-6. Test endpoints using Postman with the provided collection.
-
----
+node server/index.js
 
 ## Project Structure
 ```
