@@ -46,9 +46,9 @@ mysql -u root -p < sql/database.sql
 **Validation:** Input is validated before insertion or update to prevent duplicate emails and ensure required fields.
 
 ## How to Run the Project
-1. Clone the repository: https://github.com/santiago60-1/perfomance_test.git
+1. Clone the repository: 
 ```bash
-
+https://github.com/santiago60-1/perfomance_test.git
 ```
 2. Install dependencies:
 ```bash
